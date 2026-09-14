@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://matiri132.github.io/rlm-web-site/sitemap-index.xml
